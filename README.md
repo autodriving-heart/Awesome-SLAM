@@ -216,7 +216,7 @@ MAROAM: Map-based Radar SLAM through Two-step Feature Selection
 
 [[Link]](https://github.com/engcang/SLAM-application#-video-lego-loam-vs-lio-sam-vs-lvi-sam)
 
-### 2.**视觉SLAM** Visual SLAM
+### 2.**视觉SLAM** | Visual SLAM
 
 ORB-SLAM2
 
@@ -236,7 +236,7 @@ VINS-Fusion
 
 [[Code]](https://github.com/HKUST-Aerial-Robotics/VINS-Fusion)
 
-### 4.**激光SLAM **Lidar SLAM
+### 4.激光SLAM | Lidar SLAM
 
 LOAM
 

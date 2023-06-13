@@ -10,7 +10,7 @@
 
 ## 一、**SLAM领域经典文章汇总** | Papers about SLAM
 
-### 1.经典文章汇总 Summary of classic articles 
+### 1.经典文章汇总 | Summary of classic articles 
 
 From SLAM to Situational Awareness: Challenges and Survey(2021)
 

@@ -40,11 +40,11 @@ Active SLAM: A Review On Last Decade
 
 ## 二、**视觉SLAM** | Visual SLAM  
 
-### 1.**视觉SLAM最新调研综述**	Survey
+### 1.**视觉SLAM最新调研综述** | Survey
 
 Visual SLAM: What are the Current Trends and What to Expect?
 
-### 2.视觉SLAM 里程碑工作汇总 ! | Visual SLAM milestone work
+### 2.视觉SLAM 里程碑工作汇总 | Visual SLAM milestone work
 
 MonoSLAM Real-time single camera SLAM(PAMI 2007) 
 

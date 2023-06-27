@@ -8,9 +8,9 @@
 
 
 
-## 一、**SLAM领域经典文章汇总** | Papers about SLAM
+## 一、Papers about SLAM
 
-### 1.经典文章汇总 | Summary of classic articles 
+### 1. Summary of classic articles 
 
 From SLAM to Situational Awareness: Challenges and Survey(2021)
 
@@ -24,27 +24,21 @@ The Revisiting Problem in Simultaneous Localization and Mapping: A Survey on Vis
 
 Advances in inference and representation for simultaneous localization and mapping(2021)
 
-### 2.**SLAM 算法在各种硬件平台上的实现和性能综述**
+2.Hardware implementation of SLAM algorithms: a survey  on implementation approaches and platforms
 
-Hardware implementation of SLAM algorithms: a survey  on implementation approaches and platforms
+3.Deep Learning for Inertial Positioning: A Survey
 
-### 3.深度学习惯性定位综述 2023.03
-
-Deep Learning for Inertial Positioning: A Survey
-
-### 4.Active SLAM: A Review On Last Decade 2023
-
-Active SLAM: A Review On Last Decade
+4.Active SLAM: A Review On Last Decade
 
 
 
-## 二、**视觉SLAM** | Visual SLAM  
+## 二、Visual SLAM  
 
-### 1.**视觉SLAM最新调研综述** | Survey
+### 1. Survey
 
 Visual SLAM: What are the Current Trends and What to Expect?
 
-### 2.视觉SLAM 里程碑工作汇总 | Visual SLAM milestone work
+### 2.Visual SLAM milestone work
 
 MonoSLAM Real-time single camera SLAM(PAMI 2007) 
 
@@ -72,9 +66,7 @@ Direct_Sparse_Odometry
 
 NeRF-SLAM: Real-Time Dense Monocular SLAM with Neural Radiance Fields
 
-### 4. **视觉SLAM基于深度学习的回环检测方法汇总**
-
-### Loopback detection method based on deep learning
+### 4. Loopback detection method based on deep learning
 
 Role of Deep Learning in Loop Closure Detection for Visual（2021综述） 
 
@@ -90,9 +82,7 @@ Lightweight unsupervised deep loop closure(2018)
 
 Single-View Place Recognition under Seasonal Changes(2018) 
 
-### 5. **视觉SLAM特征处理常用算子**
-
-### Visual SLAM feature processing common operators
+### 5. Visual SLAM feature processing common operators
 
 A comparative analysis of sift, surf, kaze, akaze, orb, and brisk(2018) 
 
@@ -128,25 +118,23 @@ Event-based Simultaneous Localization and Mapping: A Comprehensive Survey
 
 
 
-## 三、**激光SLAM** | Lidar SLAM
+## 三、Lidar SLAM
 
-### 1.**激光SLAM综述两篇** Survey
+### 1.Survey
 
 A Comparative Survey of LiDAR-SLAM and LiDAR based Sensor Technologies 
 
 A Comparative Analysis of LiDAR SLAM-based Indoor Navigation for Autonomous Vehicles
 
-### 2.**自动驾驶中的LiDAR SLAM技术**
+### 2. **自动驾驶中的LiDAR SLAM技术**
 
 Lidar SLAM for Autonomous Driving Vehicles
 
-### 3.**PFilter**
+### 3. **PFilter**
 
 PFilter:  Building  Persistent  Maps  through  Feature  Filtering  for  Fastand  Accurate  LiDAR-based  SLAM
 
-### 4.**激光融合多传感器SLAM** 
-
-### Laser fusion multi-sensor SLAM
+### 4. Laser fusion multi-sensor SLAM
 
 A Review of Multi-Sensor Fusion SLAM Systems Based on 3D LIDAR
 
@@ -202,7 +190,7 @@ maplab 2.0 – A Modular and Multi-Modal Mapping Framework
 
 
 
-## 四、**毫米波SLAM** | Radar SLAM
+## 四、Radar SLAM
 
 ### 1.**基于毫米波雷达的 SLAM 框架 MAROAM**
 
@@ -210,13 +198,13 @@ MAROAM: Map-based Radar SLAM through Two-step Feature Selection
 
 
 
-## 五、**代码大全** | Code
+## 五、Code
 
 ### 1.**SLAM参考视频**
 
 [[Link]](https://github.com/engcang/SLAM-application#-video-lego-loam-vs-lio-sam-vs-lvi-sam)
 
-### 2.**视觉SLAM** | Visual SLAM
+### 2. Visual SLAM
 
 ORB-SLAM2
 
@@ -236,7 +224,7 @@ VINS-Fusion
 
 [[Code]](https://github.com/HKUST-Aerial-Robotics/VINS-Fusion)
 
-### 4.激光SLAM | Lidar SLAM
+### 4. Lidar SLAM
 
 LOAM
 
